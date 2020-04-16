@@ -1,0 +1,23 @@
+<!--SETUP-->
+
+1] mkdir <your_directory_name>
+
+2] cd <your_directory_name> 
+
+3] npm install -g firebase-tools
+
+4] firebase login
+
+5] firebase init
+
+6] npm install - save express cors 
+
+7] npm install @types/cors 
+
+8] code -n .
+
+---------------------------------------------------------
+
+<!--DEPLOYING--> 
+
+1] firebase deploy 
