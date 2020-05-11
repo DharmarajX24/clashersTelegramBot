@@ -20,4 +20,4 @@
 
 <!--DEPLOYING--> 
 
-1] firebase deploy 
+1] firebase deploy [Repeat the command if HTTPS Error 403 occurs]
