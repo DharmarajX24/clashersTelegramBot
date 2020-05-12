@@ -1,0 +1,5 @@
+[1] Set Webhook:
+https://api.telegram.org/bot<BOT_TOKEN>/setWebhook?url=URL/
+
+[2] Check Webhook:
+https://api.telegram.org/bot<BOT_TOKEN>/getWebhookInfo
