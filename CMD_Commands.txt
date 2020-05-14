@@ -10,9 +10,9 @@
 
 5] firebase init
 
-6] npm install - save express cors 
+6] npm install - save express cors [inside functions directory]
 
-7] npm install @types/cors 
+7] npm install @types/cors [inside functions directory]
 
 8] code -n .
 
